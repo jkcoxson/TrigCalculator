@@ -1,0 +1,11 @@
+C:\Users\Jackson\source\repos\Unit12\Unit12\bin\Debug\netcoreapp3.1\Unit12.exe
+C:\Users\Jackson\source\repos\Unit12\Unit12\bin\Debug\netcoreapp3.1\Unit12.deps.json
+C:\Users\Jackson\source\repos\Unit12\Unit12\bin\Debug\netcoreapp3.1\Unit12.runtimeconfig.json
+C:\Users\Jackson\source\repos\Unit12\Unit12\bin\Debug\netcoreapp3.1\Unit12.runtimeconfig.dev.json
+C:\Users\Jackson\source\repos\Unit12\Unit12\bin\Debug\netcoreapp3.1\Unit12.dll
+C:\Users\Jackson\source\repos\Unit12\Unit12\bin\Debug\netcoreapp3.1\Unit12.pdb
+C:\Users\Jackson\source\repos\Unit12\Unit12\obj\Debug\netcoreapp3.1\Unit12.csprojAssemblyReference.cache
+C:\Users\Jackson\source\repos\Unit12\Unit12\obj\Debug\netcoreapp3.1\Unit12.AssemblyInfoInputs.cache
+C:\Users\Jackson\source\repos\Unit12\Unit12\obj\Debug\netcoreapp3.1\Unit12.AssemblyInfo.cs
+C:\Users\Jackson\source\repos\Unit12\Unit12\obj\Debug\netcoreapp3.1\Unit12.dll
+C:\Users\Jackson\source\repos\Unit12\Unit12\obj\Debug\netcoreapp3.1\Unit12.pdb

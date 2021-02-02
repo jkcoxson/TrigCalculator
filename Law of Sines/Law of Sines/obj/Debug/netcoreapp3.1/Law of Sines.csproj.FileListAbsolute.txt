@@ -1,0 +1,11 @@
+C:\Users\Jackson\source\repos\Law of Sines\Law of Sines\bin\Debug\netcoreapp3.1\Law of Sines.exe
+C:\Users\Jackson\source\repos\Law of Sines\Law of Sines\bin\Debug\netcoreapp3.1\Law of Sines.deps.json
+C:\Users\Jackson\source\repos\Law of Sines\Law of Sines\bin\Debug\netcoreapp3.1\Law of Sines.runtimeconfig.json
+C:\Users\Jackson\source\repos\Law of Sines\Law of Sines\bin\Debug\netcoreapp3.1\Law of Sines.runtimeconfig.dev.json
+C:\Users\Jackson\source\repos\Law of Sines\Law of Sines\bin\Debug\netcoreapp3.1\Law of Sines.dll
+C:\Users\Jackson\source\repos\Law of Sines\Law of Sines\bin\Debug\netcoreapp3.1\Law of Sines.pdb
+C:\Users\Jackson\source\repos\Law of Sines\Law of Sines\obj\Debug\netcoreapp3.1\Law of Sines.csprojAssemblyReference.cache
+C:\Users\Jackson\source\repos\Law of Sines\Law of Sines\obj\Debug\netcoreapp3.1\Law of Sines.AssemblyInfoInputs.cache
+C:\Users\Jackson\source\repos\Law of Sines\Law of Sines\obj\Debug\netcoreapp3.1\Law of Sines.AssemblyInfo.cs
+C:\Users\Jackson\source\repos\Law of Sines\Law of Sines\obj\Debug\netcoreapp3.1\Law of Sines.dll
+C:\Users\Jackson\source\repos\Law of Sines\Law of Sines\obj\Debug\netcoreapp3.1\Law of Sines.pdb

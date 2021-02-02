@@ -1,0 +1,11 @@
+C:\Users\Jackson\source\repos\Law of Cosines\Law of Cosines\bin\Debug\netcoreapp3.1\Law of Cosines.exe
+C:\Users\Jackson\source\repos\Law of Cosines\Law of Cosines\bin\Debug\netcoreapp3.1\Law of Cosines.deps.json
+C:\Users\Jackson\source\repos\Law of Cosines\Law of Cosines\bin\Debug\netcoreapp3.1\Law of Cosines.runtimeconfig.json
+C:\Users\Jackson\source\repos\Law of Cosines\Law of Cosines\bin\Debug\netcoreapp3.1\Law of Cosines.runtimeconfig.dev.json
+C:\Users\Jackson\source\repos\Law of Cosines\Law of Cosines\bin\Debug\netcoreapp3.1\Law of Cosines.dll
+C:\Users\Jackson\source\repos\Law of Cosines\Law of Cosines\bin\Debug\netcoreapp3.1\Law of Cosines.pdb
+C:\Users\Jackson\source\repos\Law of Cosines\Law of Cosines\obj\Debug\netcoreapp3.1\Law of Cosines.csprojAssemblyReference.cache
+C:\Users\Jackson\source\repos\Law of Cosines\Law of Cosines\obj\Debug\netcoreapp3.1\Law of Cosines.AssemblyInfoInputs.cache
+C:\Users\Jackson\source\repos\Law of Cosines\Law of Cosines\obj\Debug\netcoreapp3.1\Law of Cosines.AssemblyInfo.cs
+C:\Users\Jackson\source\repos\Law of Cosines\Law of Cosines\obj\Debug\netcoreapp3.1\Law of Cosines.dll
+C:\Users\Jackson\source\repos\Law of Cosines\Law of Cosines\obj\Debug\netcoreapp3.1\Law of Cosines.pdb

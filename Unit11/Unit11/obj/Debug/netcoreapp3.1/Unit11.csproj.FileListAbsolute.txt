@@ -1,0 +1,11 @@
+C:\Users\Jackson\source\repos\Unit11\Unit11\bin\Debug\netcoreapp3.1\Unit11.exe
+C:\Users\Jackson\source\repos\Unit11\Unit11\bin\Debug\netcoreapp3.1\Unit11.deps.json
+C:\Users\Jackson\source\repos\Unit11\Unit11\bin\Debug\netcoreapp3.1\Unit11.runtimeconfig.json
+C:\Users\Jackson\source\repos\Unit11\Unit11\bin\Debug\netcoreapp3.1\Unit11.runtimeconfig.dev.json
+C:\Users\Jackson\source\repos\Unit11\Unit11\bin\Debug\netcoreapp3.1\Unit11.dll
+C:\Users\Jackson\source\repos\Unit11\Unit11\bin\Debug\netcoreapp3.1\Unit11.pdb
+C:\Users\Jackson\source\repos\Unit11\Unit11\obj\Debug\netcoreapp3.1\Unit11.csprojAssemblyReference.cache
+C:\Users\Jackson\source\repos\Unit11\Unit11\obj\Debug\netcoreapp3.1\Unit11.AssemblyInfoInputs.cache
+C:\Users\Jackson\source\repos\Unit11\Unit11\obj\Debug\netcoreapp3.1\Unit11.AssemblyInfo.cs
+C:\Users\Jackson\source\repos\Unit11\Unit11\obj\Debug\netcoreapp3.1\Unit11.dll
+C:\Users\Jackson\source\repos\Unit11\Unit11\obj\Debug\netcoreapp3.1\Unit11.pdb
